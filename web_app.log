@@ -1,0 +1,14 @@
+{"level":"ERROR","time":"2021-11-10T13:32:24.109+0800","caller":"mysql/mysql.go:22","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!d(string=titan721): nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:33:19.986+0800","caller":"mysql/mysql.go:22","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!d(string=titan721): nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:33:40.259+0800","caller":"mysql/mysql.go:22","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!d(string=titan721): nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:34:50.353+0800","caller":"mysql/mysql.go:22","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!d(string=titan721): nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:36:34.617+0800","caller":"mysql/mysql.go:22","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!d(string=titan721): nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:38:14.870+0800","caller":"mysql/mysql.go:22","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!d(string=titan721): nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:42:49.762+0800","caller":"mysql/mysql.go:24","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/titan721: nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:52:14.873+0800","caller":"mysql/mysql.go:24","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/titan721: nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T13:57:24.974+0800","caller":"mysql/mysql.go:24","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/titan721: nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T14:05:03.449+0800","caller":"mysql/mysql.go:24","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/titan721: nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T14:12:11.352+0800","caller":"mysql/mysql.go:25","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/titan721: nodename nor servname provided, or not known"}
+{"level":"ERROR","time":"2021-11-10T14:13:19.327+0800","caller":"mysql/mysql.go:26","msg":"connect DB faild, err %s/n","error":"dial tcp: lookup tcp/%!s(int=3306): nodename nor servname provided, or not known"}
+{"level":"ERROR"," time":"2021-11-10T14:13:41.586+0800","caller":"mysql/mysql.go:26","msg":"connect DB faild, err %s/n","error":"Error 1115: Unknown character set: 'utr8mb4'"}
+{"level":"ERROR","time":"2021-11-10T14:14:30.159+0800","caller":"mysql/mysql.go:27","msg":"connect DB faild, err %s/n","error":"Error 1115: Unknown character set: 'utr8mb4'"}
