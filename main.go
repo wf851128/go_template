@@ -21,8 +21,13 @@ import (
 //项目模板
 
 func main() {
+	if len(os.Args) < 2 {
+		log.Println("need config file.eg: application ./config.yaml")
+
+		return
+	}
 	//1.加载配置文件
-	if err := settings.Init(); err != nil {
+	if err := settings.Init(os.Args[1]); err != nil {
 		log.Printf("init settings failed, err :%s", err)
 		return
 	}
